@@ -46,7 +46,7 @@
 
     $cenaDostave = izracunajDostavu( 2000 , "SpLiT" );
 
-    echo  $cenaDostave;
+    echo  "cena za dostavu je ".$cenaDostave;
 
 
 
